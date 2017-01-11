@@ -4,3 +4,4 @@
 My favorite pizza toppings are:
 * Green Pepper
 * Cheese
+* Onions
