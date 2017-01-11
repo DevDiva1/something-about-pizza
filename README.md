@@ -3,5 +3,6 @@
 
 My favorite pizza toppings are:
 * Green Pepper
-* Cheese
 * Onions
+* Cheese
+* More Cheese
